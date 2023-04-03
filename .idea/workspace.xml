@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6a8b3b5f-387b-4c10-bafd-f36df567507a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/canvasdrawer/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/canvasdrawer/commands/AddLineCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/canvasdrawer/commands/AddRectangleCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/canvasdrawer/commands/CanvasCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/canvasdrawer/commands/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/canvasdrawer/commands/CommandFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/canvasdrawer/commands/CreateCanvasCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/canvasdrawer/commands/QuitCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/canvasdrawer/entities/Canvas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/canvasdrawer/entities/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/canvasdrawer/exceptions/InvalidParametersException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/canvasdrawer/exceptions/OutOfBoundsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/canvasdrawer/exceptions/ValidationException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/canvasdrawer/commands/CommandFactoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/canvasdrawer/entities/CanvasTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2NtJfBbh5mcovvtPYCdtEnTPS7U" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/alvar/Dev/Canvas Drawer/src/test/java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/alvar/Dev/Canvas Drawer/src/main/java/org/fedealva/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\alvar\Dev\Canvas Drawer\src\test\java" />
+      <recent name="C:\Users\alvar\Dev\Canvas Drawer\src\main\java\org\fedealva" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CanvasTest">
+    <configuration name="CanvasTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="canvasdrawer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="canvasdrawer.entities.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="canvasdrawer.entities" />
+      <option name="MAIN_CLASS_NAME" value="canvasdrawer.entities.CanvasTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommandFactoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="canvasdrawer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="canvasdrawer.commands.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="canvasdrawer.commands" />
+      <option name="MAIN_CLASS_NAME" value="canvasdrawer.commands.CommandFactoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CanvasTest" />
+        <item itemvalue="JUnit.CommandFactoryTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a8b3b5f-387b-4c10-bafd-f36df567507a" name="Changes" comment="" />
+      <created>1680477549400</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680477549400</updated>
+      <workItem from="1680477550447" duration="3367000" />
+      <workItem from="1680480943856" duration="424000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
